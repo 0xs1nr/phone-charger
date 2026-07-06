@@ -6,6 +6,7 @@ Fonte de tensao retificadora ajustável de 3V a 12V.
 
 ## Circuito no Falstad
 ![](assets/images/falstad.svg)
+https://www.falstad.com/s.php?s=vwAQug
 
 ## Schematic
 ![](assets/images/schematic.png)
